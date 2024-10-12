@@ -1,0 +1,33 @@
+p.verso{
+    color: blue;
+
+}
+
+p.verso2{
+    color: red;
+
+}
+
+/* Estilo padrão do link */
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+/* Quando o link é clicado (visitado) */
+a:visited {
+    color: purple; /* Muda para roxo após ser clicado */
+}
+
+/* Quando o mouse passa por cima do link */
+a:hover {
+    color: green;
+    text-decoration: underline;
+}
+
+/* Quando o link está sendo clicado */
+a:active {
+    color: red;
+}
+
+
